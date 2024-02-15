@@ -1,6 +1,5 @@
 <?php
 
-namespace NovaPost;
 
 class NP
 {
